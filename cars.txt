@@ -1,0 +1,24 @@
+0 Ford Mustang 2006 5000 2 Coupe White 4.0 V 6
+1 Ford Focus 2018 17950 4 Blue 2.0 S 4
+2 Ford Fiesta 2007 3000 4 Black 1.4 S 4
+4 Toyota LandCruiser 85321 4 Blue 5.2 V 8
+5 Toyota Camry 2006 45123 2 Coupe White 4.0 V 6
+6 Toyota RAV4 2018 64632 4 Blue 2.0 S 4
+7 Audi A4 2007 52352 4 Black 1.4 S 4
+8 Audi Q5 56456 4 Blue 5.2 V 8
+9 Audi Q7 2006 65477 2 Coupe White 4.0 V 6
+10 Audi S4 2018 64562 4 Blue 2.0 S 4
+11 Audi TT 2007 3000 4 Black 1.4 S 4
+12 BMW 320 2005 43242 4 Blue 5.2 V 8
+13 BMW 421 2006 5000 2 Coupe White 4.0 V 6
+14 BMW X4 2018 17950 4 Blue 2.0 S 4
+15 BMW X3 2007 3000 4 Black 1.4 S 4
+16 Nissan Altima 85321 4 Blue 5.2 V 8
+17 Nissan Pathfinder 2006 5000 2 Coupe White 4.0 V 6
+18 Nissan Sentra 2018 17950 4 Blue 2.0 S 4
+19 Ford F150 2007 3000 4 Black 1.4 S 4
+20 Chevrolet Santiago 85321 4 Blue 5.2 V 8
+21 Ford Ranger 2006 5000 2 Coupe White 4.0 V 6
+22 Ford Explorer 2018 17950 4 Blue 2.0 V 4
+23 Ford Escape 2007 3000 4 Black 1.4 S 4
+24 Ford Fusion 85321 4 Blue 5.2 S 4
